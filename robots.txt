@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://simonschirren.github.io/sitemap.xml
