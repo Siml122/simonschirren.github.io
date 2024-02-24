@@ -9,9 +9,8 @@ profile:
   image: PhDpic.pdf
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Rome, State 12345</p>
+    <p> Largo S. Leonardo Murialdo 1, 00146 Rome </p>
+    <p> Rome, Italy </p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
