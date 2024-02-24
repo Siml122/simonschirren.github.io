@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a 4th year PhD student working in algebraic geometry @Roma Tre. My supervisor is Richard Thomas (Imperial College London). I'm interested in sheaf theory and virtual cycles. 
+I'm a 4th year PhD student working in algebraic geometry (Roma Tre). My supervisor is Richard Thomas (Imperial College London). I'm interested in sheaf theory and virtual cycles. 
 
 
 
