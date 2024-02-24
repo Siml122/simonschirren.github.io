@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: _layouts/PhDpic.jpg
+  image: assets/img/PhDpic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Largo S. Leonardo Murialdo 1, 00146 Rome </p>
