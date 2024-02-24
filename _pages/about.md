@@ -2,14 +2,15 @@
 layout: about
 title: hello 
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: PhDpic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Largo S. Leonardo Murialdo 1, 00146 Rome </p>
+    <p> Università Roma Tre,  
+    <p> Largo S. Murialdo 1, 00146 Rome </p>
     <p> Rome, Italy </p>
 
 news: false # includes a list of news items
@@ -18,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a 4th year PhD student working in algebraic geometry.
+I'm a 4th year PhD student working in algebraic geometry. Currently, I'm interested in sheaf theory and virtual cycles. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
