@@ -7,4 +7,4 @@ nav_order: 5
 
 ---
 
-![My image Name](/assets/pdf/CV Simon Schirren.pdf)
+<object data="/assets/pdf/CV Simon Schirren.pdf"> </object>
