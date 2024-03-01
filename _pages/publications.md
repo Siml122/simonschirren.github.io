@@ -11,7 +11,7 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography %}
-image: diagram.jpg
+image: diagram.jpeg
 
 
 </div>
