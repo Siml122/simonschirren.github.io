@@ -11,7 +11,11 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography %}
-image: diagram.jpeg
+
+profile:
+  align: center
+  image: diagram.jpeg
+  image_circular: false 
 
 
 </div>
