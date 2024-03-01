@@ -12,10 +12,6 @@ nav_order: 2
 
 {% bibliography %}
 
-profile:
-  align: center
-  image: diagram.jpeg
-  image_circular: false 
-
+![diagram](/assets/img/diagram.jpeg)
 
 </div>
