@@ -12,6 +12,7 @@ nav_order: 2
 
 {% bibliography %}
 
-![diagram](/assets/img/diagram.jpeg)
-
 </div>
+
+
+![diagram](/assets/img/diagram.jpeg)
