@@ -7,4 +7,4 @@ nav_order: 5
 
 ---
 
-<embed src="CV Simon Schirren.pdf">
+<embed src="assets/pdf/ CV Simon Schirren.pdf">
